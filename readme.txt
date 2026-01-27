@@ -3,7 +3,7 @@
 
 learn git 1
 
-main dv
+main dv 12
 
 
 
