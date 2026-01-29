@@ -4,9 +4,11 @@
 learn git 1
 
 
-main v02---- merge test
+dv v01 ---- merge test
 
-push上去后也可以合并
+
+这是在dv的修改
+
 
 
 
