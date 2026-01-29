@@ -4,15 +4,9 @@
 learn git 1
 
 
+main v02---- merge test
 
-main v01---- merge test
-
-我要测试一下 merge
-
-
-
-
-
+push上去后也可以合并
 
 
 
